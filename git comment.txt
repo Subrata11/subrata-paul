@@ -1,0 +1,29 @@
+//////////////////////////////////////////////////////////////////////////////////
+
+
+1. git init 	[git repository file]
+2. git add 	[add file]
+3. git add .	 [add all file]
+4. git status 	[for checkout all status]
+5. touch newfile.txt  	[for a new file is created]
+6. git commit -m "new file is created"	 [commet and Only for message]
+7. git checkout (filename) 	[change or Back the status name]
+8. ls -m 		[list of file--> for brach]
+9. git marge 
+10. git push -u origin master 	[master branch]
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+Rule to Upload any project.
+1. git init
+2. git status
+3. git add .
+4. git status
+5. git commit -m "It is a  first Commit"
+6. Now copy and paste the link from git (Like as:: git remote add origin https://github.com/Subrata11/All_University_Info..git)
+7. git push origin master
+8. username: sksubrata96@gmail.com
+9. password: sk00000000
+10. Finaly 100% successfully upload.
+////////////////////////////////////////////////////////////////////////////////////
