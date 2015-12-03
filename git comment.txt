@@ -24,6 +24,11 @@ Rule to Upload any project.
 6. Now copy and paste the link from git (Like as:: git remote add origin https://github.com/Subrata11/All_University_Info..git)
 7. git push origin master
 8. username: sksubrata96@gmail.com
-9. password: sk00000000
+9. password: -----------
 10. Finaly 100% successfully upload.
 ////////////////////////////////////////////////////////////////////////////////////
+
+Subrata Kumer Paul
+CSE.RU
+
+---------------------Copyright_subrata@2015----------------------
